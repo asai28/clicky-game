@@ -1,0 +1,11 @@
+.navbar{
+    background-color: #614051;
+    color: white; 
+    width: 100%;
+    position: fixed;
+    z-index: 3;
+}
+
+.navbar > .score{
+    justify-content: flex-end;
+}

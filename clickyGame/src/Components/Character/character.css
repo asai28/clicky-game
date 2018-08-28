@@ -1,0 +1,11 @@
+.img-container{
+  width: 200px;
+  height: 200px;
+  margin: 5 5px;
+  align-content: space-around;
+}
+
+.img-container > img{
+  width: 80%;
+  height: 80%;
+}
